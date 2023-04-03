@@ -1,4 +1,4 @@
-# Testes Logincom Cypress
+# Testes Login com Cypress
 
 Projeto simples para criação de login no site https://www.aesop.com.br
 
