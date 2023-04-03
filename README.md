@@ -10,6 +10,7 @@ Para rodar o projeto voce precisara:
 - [nodejs](https://nodejs.org/en/) (Foi usado  a versão `v19.5.0` para o projeto)
 - NPM (Foi usado a versão `9.6.3` para escrever esse projeto)
 - [Google Chrome](https://www.google.com/intl/en_us/chrome/) (Foi usado a versão `111` para o projeto)
+- [Cypress](https://www.cypress.io) (Foi usado  a versão `v12.9.0` para o projeto)
 
 **Note:** Ao instalar o nodejs, o NPM também é instalado automaticamente.
 
@@ -20,6 +21,7 @@ Para instalar as dependências de desenvolvimento, execute `npm install` (ou `np
 ## Running the tests
 
 Para executar os testes, voce precisará abrir o Cypress e executar o teste de nome "login.cy.js"
+Foi criado uma massa de dados por falta de "tempo" para a instalação dos 'fakes'
 
 ___
 
